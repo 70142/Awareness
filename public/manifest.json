@@ -1,6 +1,6 @@
 {
   "short_name": "Awareness",
-  "name": "Awareness: Please  help those people who needs your help, Never turn back, Help Them",
+  "name": "Awareness",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,7 +20,7 @@
   ],
   "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
   "display": "standalone",
-  "theme_color": "sky blue",
+  "theme_color": "skyblue",
   "background_color": "white",
   "orientation": "portrait"
 }
