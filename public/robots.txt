@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+Sitemap: https://70142.github.io/Awareness/Awareness/index.html/sitemap.xml
+User-agent: *
+Disallow:
