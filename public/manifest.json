@@ -8,20 +8,21 @@
       "type": "image/x-icon"
     },
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
   "display": "standalone",
-  "theme_color": "skyblue",
   "background_color": "skyblue",
   "theme-color": "skyblue",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "theme_color": "skyblue"
+  
 }
