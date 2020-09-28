@@ -22,5 +22,6 @@
   "display": "standalone",
   "theme_color": "skyblue",
   "background_color": "skyblue",
+  "theme-color": "skyblue",
   "orientation": "portrait"
 }
