@@ -1,5 +1,5 @@
 {
-  "short_name": "Awareness",
+  "short_name": "AWARENESS",
   "name": "Awareness",
   "icons": [
     {
@@ -21,7 +21,7 @@
   "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
   "display": "standalone",
   "background_color": "white",
-  "theme_color": "skyblue",
+  "theme_color": "#22b6e4",
   "orientation": "portrait"
   
   
