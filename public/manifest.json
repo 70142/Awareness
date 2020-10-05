@@ -10,7 +10,7 @@
     {
       "src": "android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "200x200"
+      "sizes": "192x192"
     },
     {
       "src": "android-chrome-512x512.png",
@@ -19,17 +19,14 @@
     },
     ],
   
-  "content_scripts": [
-    {
-        "css": ["Theme.css"]
-    }
-],
+ 
   
   "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "#22b6e4",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "text_color":"#22b6e4"
   
   
 }
