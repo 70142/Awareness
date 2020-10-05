@@ -16,11 +16,10 @@
       "src": "android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "543x187"
-    }
-    
+    },
     {
   "css": [ "Theme.css" ]
-}
+    }
     
   ],
   "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
