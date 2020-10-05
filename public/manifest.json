@@ -1,6 +1,6 @@
 {
-  "short_name": "AWARENESS",
-  "name": "Awareness",
+  "short_name": "Awareness",
+  "name": "AWARENESS",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,7 +10,7 @@
     {
       "src": "android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "200x200"
     },
     {
       "src": "android-chrome-512x512.png",
