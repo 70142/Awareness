@@ -17,11 +17,16 @@
       "type": "image/png",
       "sizes": "543x187"
     },
+    ],
+  
+  "content_scripts": [
     {
-  "css": [ "Theme.css" ]
+        "matches": ["http://70142.github.io/Awareness/pulic/Sahil.html"],
+        "css": ["./Theme.css"],
+
     }
-    
-  ],
+],
+  
   "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
   "display": "standalone",
   "background_color": "white",
