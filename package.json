@@ -2,7 +2,7 @@
   "name": "Awareness",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://70142.github.io/Awareness/public/index.html",
+  "homepage": "https://70142.github.io/Awareness/public/Sahil.html",
   "dependencies": {
     "@juggle/resize-observer": "^3.2.0",
     "@primer/octicons-v2-react": "0.0.0-53e900d",
