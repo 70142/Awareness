@@ -1,0 +1,26 @@
+{
+  "short_name": "AWARENESS",
+  "name": "Awarenesss",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
+  "display": "standalone",
+  "theme_color": "#22b6e4",
+  "background_color": "#e8f4f8",
+  "orientation": "portrait"
+}
