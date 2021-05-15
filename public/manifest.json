@@ -1,6 +1,6 @@
 {
   "short_name": "Awareness",
-  "name": "AWARENESS",
+  "name": "Awareness",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://70142.github.io/Awareness/public/Sahil.html",
+  "start_url": "https://70142.github.io/Awareness/public/index.html",
   "display": "standalone",
   "theme_color": "#22b6e4",
   "background_color": "#d4ebf2",
