@@ -1,7 +1,6 @@
 {
-  "short_name": ".",
-  "name": "Awareness",
-  "css":"Theme.css",
+  "short_name": "Awareness",
+  "name": ".",
   "icons": [
     {
       "src": "favicon.ico",
